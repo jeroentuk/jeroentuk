@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeroentuk
+- 👋 Hi, I’m Jeroen Tuk
 - 👀 I’m interested in Scripting, Mendix modelling and Football
 - 📫 Reach me with e-mail
 
